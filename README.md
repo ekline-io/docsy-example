@@ -7,6 +7,7 @@ You can clone/copy this project and edit it with your own content, or use it as 
 
 In this project, the Docsy theme component is pulled in as a Hugo module, together with other module dependencies:
 
+
 ```bash
 $ hugo mod graph
 hugo: collected modules in 566 ms
